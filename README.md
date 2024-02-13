@@ -1,5 +1,6 @@
 ### Connor Rogers
 I'm preparing to receive my B.S. in Computer Science in May of 2024.
+
 I'm currently working on expanding my front-end development skills, specifically with javascript, and more specifically typescript
 <!--
 **connortroyrogers/connortroyrogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
