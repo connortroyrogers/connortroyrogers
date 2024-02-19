@@ -2,20 +2,20 @@
 B.S. in Computer Science May 2024.
 
 - 🌱 I’m currently learning ...
-- TypeScript
-- Circuit Analysis
-- Hardware Testing via C++/C#
+  - TypeScript
+  - Circuit Analysis
+  - Hardware Testing via C++/C#
 <br />
 
 - ✨ Languages
-- JavaScript
-- Python
-- Java
-- SQL
-- C++
-- C#
-- C
-- R
+  - JavaScript
+  - Python
+  - Java
+  - SQL
+  - C++
+  - C#
+  - C
+  - R
 
 <!--
 **connortroyrogers/connortroyrogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
