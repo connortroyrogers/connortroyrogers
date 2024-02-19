@@ -5,7 +5,7 @@ B.S. in Computer Science May 2024.
 - TypeScript
 - Circuit Analysis
 - Hardware Testing via C++/C#
-
+<br />
 
 - ✨ Languages
 - JavaScript
