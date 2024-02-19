@@ -1,7 +1,21 @@
 ### Connor Rogers
 B.S. in Computer Science May 2024.
 
-Currently working on expanding my front-end development skills, specifically typescript
+- 🌱 I’m currently learning ...
+- TypeScript
+- Circuit Analysis
+- Hardware Testing via C++/C#
+
+- ✨ Languages
+- JavaScript
+- Python
+- Java
+- SQL
+- C++
+- C#
+- C
+- R
+
 <!--
 **connortroyrogers/connortroyrogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
