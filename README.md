@@ -6,6 +6,7 @@ B.S. in Computer Science May 2024.
 - Circuit Analysis
 - Hardware Testing via C++/C#
 
+
 - ✨ Languages
 - JavaScript
 - Python
