@@ -2,7 +2,7 @@
 B.S. in Computer Science May 2024.
 
 - 🌱 I’m currently learning ...
-  - Go
+  - GoLang
   - Circuit Analysis
   - Hardware Testing via C++/C#
 <br />
