@@ -1,5 +1,5 @@
 ### Connor Rogers
-B.S. in Computer Science May 2024.
+Computer Science B.S. With Specialization in Software Engineering, Indiana University
 
 - 🌱 I’m currently learning ...
   - GoLang
