@@ -7,6 +7,10 @@ Computer Science B.S. With Specialization in Software Engineering, Indiana Unive
   - Hardware Testing via C++/C#
 <br />
 
+-🔭 I'm currently working on ...
+  - A project aimed towards making it easier for sales people to create a customized process when speaking with customers <br />
+    and help them create responses to provide better answers for customers.
+
 - ✨ Languages
   - JavaScript
   - Python
