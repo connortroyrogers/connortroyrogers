@@ -3,6 +3,7 @@ Computer Science B.S. With Specialization in Software Engineering, Indiana Unive
 
 - 🌱 I’m currently learning ...
   - GoLang
+  - HTMX
   - Circuit Analysis
   - Hardware Testing via C++/C#
 <br />
@@ -18,6 +19,7 @@ Computer Science B.S. With Specialization in Software Engineering, Indiana Unive
   - SQL
   - C++
   - C#
+  - Go
   - C
   - R
 
