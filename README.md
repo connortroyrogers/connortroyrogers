@@ -7,6 +7,7 @@ Computer Science B.S. With Specialization in Software Engineering, Indiana Unive
   - Circuit Analysis
   - Hardware Testing via C++/C#
 <br />
+
 - ✨ Languages
   - JavaScript
   - Python
