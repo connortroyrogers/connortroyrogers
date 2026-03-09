@@ -1,11 +1,10 @@
 ### Connor Rogers
 Computer Science B.S. With Specialization in Software Engineering, Indiana University
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently working with ...
   - GoLang
   - HTMX
-  - Circuit Analysis
-  - Hardware Testing via C++/C#
+  - C++
 <br />
 
 - ✨ Languages
